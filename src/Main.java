@@ -12,6 +12,7 @@ public class Main {
             System.out.println("i = " + i+6);
             System.out.println("Hi22");
             System.out.println("Hi22");
+            System.out.println("Hi2w2");
         }
     }
 }
